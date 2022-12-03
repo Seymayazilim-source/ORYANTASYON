@@ -20,7 +20,7 @@ int sayi1; int sayi2; int sayi3; Double ortalama=(sayi1+sayi2+sayi3)/3;
 SAYI POZITIF MI NEGATIF MI=>
 int sayi; if(sayi>0) System.out.println("poziti"+sayi) else  System.out.println("negatif"+sayi);
 10 KERE AD SOYAD YAZAN=>
-String ad; String soyad; for(int i=0;i<10;i++) System.out.println("adınız soyadınız="+ad+soyad);
+String adSoyad;   for(int i=0;i<10;i++)  System.out.println(adSoyad);
 SAYININ 2 YE BOLUMUNDEN KALAN=>
 int sayi; int bkalan=sayi%2;  System.out.println(bkalan);
 
