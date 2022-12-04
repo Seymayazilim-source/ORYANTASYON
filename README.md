@@ -1,6 +1,6 @@
 # ORYANTASYON
 README.mdV
-https://youtu.be/i31OGhmsPq422
+https://youtu.be/pM5b3FDcsLA
 //kodlarım
 ALGORİTMA  KODLARI
 2 SAYI TOPLAMI => 
